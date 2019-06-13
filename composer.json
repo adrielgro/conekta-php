@@ -1,5 +1,6 @@
 {
     "name": "adrielgro/conekta-php",
+    "version": "4.0.4",
     "description": "Conekta 4.0.4 to php 7.2",
     "type": "library",
     "license": "MIT",
